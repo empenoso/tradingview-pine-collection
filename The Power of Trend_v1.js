@@ -1,5 +1,5 @@
 // https://smart-lab.ru/mobile/topic/1119895/#comment17905643
-// https://smart-lab.ru/profile/empenoso/
+// Михаил Шардин, https://shardin.name/?utm_source=tradingview
 
 //@version=5
 indicator("Сила Тренда", shorttitle="ТрендСила", overlay=false, precision=4)
